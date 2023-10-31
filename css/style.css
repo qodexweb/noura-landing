@@ -1360,3 +1360,7 @@ button {
     max-width: 100%;
     margin: 0px auto;
 }
+
+.landing-header .land-header .mainlogo a img {
+    max-width: 50%;
+}
